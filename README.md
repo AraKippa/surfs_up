@@ -1,6 +1,5 @@
 # surfs_up
 
-Today we'll look at the key differences in weather between June and December and I will also proide two recommendations for further analysis.
-
-Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+Today we'll look at the key differences in temperatures between June and December in Oaho and I will also provide two recommendations for further analysis.
+Based on the data gathered from the Hawaii weather stations, the June and December weather indicate Oahu as a great location for a surf and ice cream shop.  Temperatures in both June and December are extremely pleasant.  Here is a look at the weather averages for June.  [June temperatures graph](/June_temps.png). For a more numerical view, here is a table of the average June temperatures with highs and lows.  [June stats_table](/June_stats.png). Now if we look at the [December_temperature_graph](Dec_temps.png) and the [December stats table](Dec_stats.png), we see the numbers are extremely similar. This seems to indicate this shop with have year round viability.
+Based soley on this temperature data, this seems like a great pick for a surf and ice cream shop.  However, I would caution looking at some other weather data first.  Precipitation and wind will affect both the waves for the surfers and the buying habits of ice cream afficianados.  Also, I would look for typhoon information. Still, it's a good start.
